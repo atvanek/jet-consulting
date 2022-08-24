@@ -1,0 +1,16 @@
+[24/Aug/2022:18:08:22] (I): WordPress Instance Info:
+[24/Aug/2022:18:08:22] (I): Home URL : http://localhost:8888/jet-consulting
+[24/Aug/2022:18:08:22] (I): Site URL : http://localhost:8888/jet-consulting
+[24/Aug/2022:18:08:22] (I): WordPress Version : 6.0.1
+[24/Aug/2022:18:08:22] (I): Onboarding Version : 1.1.25
+[24/Aug/2022:18:08:22] (I): Multisite : No
+[24/Aug/2022:18:08:22] (I): Server Info : Apache/2.4.46 (Unix) OpenSSL/1.0.2u PHP/7.4.21 mod_wsgi/3.5 Python/2.7.13 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.11 Perl/v5.30.1
+[24/Aug/2022:18:08:22] (I): PHP Version : 7.4.21
+[24/Aug/2022:18:08:22] (I): HTTPS : No
+[24/Aug/2022:18:08:22] (I): PHP Max Execution Time : 30
+[24/Aug/2022:18:08:22] (I): PHP Max Input Vars : 1000
+[24/Aug/2022:18:08:22] (I): Max Upload Size : 8388608
+[24/Aug/2022:18:08:22] (I): Plugins:
+[24/Aug/2022:18:08:22] (I): [PLUGIN] Elementor : v3.7.2 (Elementor.com)
+[24/Aug/2022:18:08:22] (I): [PLUGIN] Templates Patterns Collection : v1.1.25 (ThemeIsle)
+[24/Aug/2022:18:08:22] (I): [PLUGIN] WPForms Lite : v1.7.6 (WPForms)
